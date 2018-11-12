@@ -1,7 +1,7 @@
 //  Created by Emanuel Estrada Larios
 //  A01633605
 
-//  Metodos Numericos - Reto Parcial 1
+//  Metodos Numericos - Proyecto final
 
 #include <iostream>
 #include <cmath>
